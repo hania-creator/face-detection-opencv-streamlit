@@ -1,5 +1,5 @@
 # skiller_hub_face_detection
-# 😊 Face Detection using OpenCV and Streamlit
+# Face Detection using OpenCV and Streamlit
 
 A simple and interactive Face Detection web application built using **Python**, **OpenCV**, and **Streamlit**. This project detects human faces in uploaded images and highlights them with green bounding boxes while displaying the total number of detected faces.
 
