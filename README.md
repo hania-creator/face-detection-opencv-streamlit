@@ -5,18 +5,18 @@ A simple and interactive Face Detection web application built using **Python**, 
 
 ---
 
-## 📌 Features
+##  Features
 
-- 📤 Upload an image (JPG, JPEG, PNG)
-- 👤 Detect human faces automatically
-- 🟩 Draw bounding boxes around detected faces
-- 🔢 Display the total number of detected faces
-- 📥 Download the processed image
-- 🎨 Simple and user-friendly Streamlit interface
+ Upload an image (JPG, JPEG, PNG)
+-  Detect human faces automatically
+-  Draw bounding boxes around detected faces
+-  Display the total number of detected faces
+-  Download the processed image
+-  Simple and user-friendly Streamlit interface
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - OpenCV
@@ -25,7 +25,7 @@ A simple and interactive Face Detection web application built using **Python**, 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Face-Detection-OpenCV/
@@ -42,7 +42,7 @@ Face-Detection-OpenCV/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -92,7 +92,7 @@ Pillow
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Real-time webcam face detection
 - Face recognition
